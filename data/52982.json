@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "52982",
-  "updated": "2026-09-27T23:11:00.145Z",
+  "updated": "2026-09-27T23:13:06.146Z",
   "customPosition": true,
   "casinos": [
     {
@@ -17,21 +17,9 @@
       "rating": null
     },
     {
-      "brand": "bruce-bet-casino",
-      "name": "Bruce Bet",
-      "position": 2,
-      "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
-      "features": [
-        "Deposito minimo di soli €10",
-        "Cashback e programma fedeltà",
-        "Ampia scelta provider: Novomatic, Yggdrasil, Evolution"
-      ],
-      "rating": null
-    },
-    {
       "brand": "winnita-casino",
       "name": "Winnita",
-      "position": 3,
+      "position": 2,
       "bonus": "Bonus di benvenuto del 525% fino a €3.000 + 450 Giri Gratis",
       "features": [
         "Wagering più basso del mercato: x30",
@@ -43,7 +31,7 @@
     {
       "brand": "spinarium-casino",
       "name": "Spinarium Casino",
-      "position": 4,
+      "position": 3,
       "bonus": "500% fino a €4.290 + 200 Giri Gratis",
       "features": [
         "Bonus benvenuto più alto del mercato",
@@ -55,7 +43,7 @@
     {
       "brand": "verde-casino",
       "name": "Verde Casino",
-      "position": 5,
+      "position": 4,
       "bonus": "Bonus di benvenuto del 520% fino a €1.200 + 220 Giri Gratis",
       "features": [
         "Deposito minimo di soli €10",
