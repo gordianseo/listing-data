@@ -1,7 +1,7 @@
 {
   "version": 2,
   "project": "52982",
-  "updated": "2026-09-28T21:42:21.786Z",
+  "updated": "2026-09-28T21:57:24.265Z",
   "active": true,
   "listingPosition": false,
   "customPosition": true,
@@ -14,8 +14,20 @@
   "featureCount": 3,
   "casinos": [
     {
-      "brand": "bruce-bet-casino",
+      "brand": "xon-bet-casino",
       "position": 1,
+      "name": "XON.bet",
+      "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
+      "rating": "5",
+      "features": [
+        "Prelievi elaborati in 0-24 ore",
+        "App mobile per iOS e Android",
+        "Programma fedeltà e cashback"
+      ]
+    },
+    {
+      "brand": "bruce-bet-casino",
+      "position": 2,
       "name": "Bruce Bet",
       "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
       "rating": "4.8",
@@ -26,8 +38,20 @@
       ]
     },
     {
+      "brand": "spinarium-casino",
+      "position": 3,
+      "name": "Spinarium Casino",
+      "bonus": "500% fino a €4.290 + 200 Giri Gratis",
+      "rating": "4.5",
+      "features": [
+        "Bonus benvenuto più alto del mercato",
+        "Agente EU registrato a Cipro",
+        "Nessuna commissione su depositi/prelievi"
+      ]
+    },
+    {
       "brand": "winnita-casino",
-      "position": 2,
+      "position": 4,
       "name": "Winnita",
       "bonus": "Bonus di benvenuto del 525% fino a €3.000 + 450 Giri Gratis",
       "rating": "4.6",
@@ -39,7 +63,7 @@
     },
     {
       "brand": "verde-casino",
-      "position": 3,
+      "position": 5,
       "name": "Verde Casino",
       "bonus": "Bonus di benvenuto del 520% fino a €1.200 + 220 Giri Gratis",
       "rating": "4.9",
