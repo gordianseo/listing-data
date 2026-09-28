@@ -1,7 +1,7 @@
 {
   "version": 2,
   "project": "52982",
-  "updated": "2026-09-28T21:41:55.014Z",
+  "updated": "2026-09-28T21:42:21.786Z",
   "active": true,
   "listingPosition": false,
   "customPosition": true,
@@ -14,15 +14,15 @@
   "featureCount": 3,
   "casinos": [
     {
-      "brand": "xon-bet-casino",
+      "brand": "bruce-bet-casino",
       "position": 1,
-      "name": "XON.bet",
+      "name": "Bruce Bet",
       "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
-      "rating": "5",
+      "rating": "4.8",
       "features": [
-        "Prelievi elaborati in 0-24 ore",
-        "App mobile per iOS e Android",
-        "Programma fedeltà e cashback"
+        "Deposito minimo di soli €10",
+        "Cashback e programma fedeltà",
+        "Ampia scelta provider: Novomatic, Yggdrasil, Evolution"
       ]
     },
     {
