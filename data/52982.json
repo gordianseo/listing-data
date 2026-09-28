@@ -1,20 +1,20 @@
 {
   "version": 1,
   "project": "52982",
-  "updated": "2026-09-28T15:29:26.613Z",
-  "customPosition": true,
+  "updated": "2026-09-28T15:30:51.339Z",
+  "customPosition": false,
   "casinos": [
     {
-      "brand": "xon-bet-casino",
-      "name": "XON.bet",
+      "brand": "spinarium-casino",
+      "name": "Spinarium Casino",
       "position": 1,
-      "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
+      "bonus": "500% fino a €4.290 + 200 Giri Gratis",
       "features": [
-        "Prelievi elaborati in 0-24 ore",
-        "App mobile per iOS e Android",
-        "Programma fedeltà e cashback"
+        "Bonus benvenuto più alto del mercato",
+        "Agente EU registrato a Cipro",
+        "Nessuna commissione su depositi/prelievi"
       ],
-      "rating": 4.7
+      "rating": 4.5
     },
     {
       "brand": "winnita-casino",
@@ -29,21 +29,9 @@
       "rating": 4.6
     },
     {
-      "brand": "spinarium-casino",
-      "name": "Spinarium Casino",
-      "position": 3,
-      "bonus": "500% fino a €4.290 + 200 Giri Gratis",
-      "features": [
-        "Bonus benvenuto più alto del mercato",
-        "Agente EU registrato a Cipro",
-        "Nessuna commissione su depositi/prelievi"
-      ],
-      "rating": 4.5
-    },
-    {
       "brand": "verde-casino",
       "name": "Verde Casino",
-      "position": 4,
+      "position": 3,
       "bonus": "Bonus di benvenuto del 520% fino a €1.200 + 220 Giri Gratis",
       "features": [
         "Deposito minimo di soli €10",
@@ -51,6 +39,18 @@
         "Tornei settimanali e programma VIP"
       ],
       "rating": 4.9
+    },
+    {
+      "brand": "xon-bet-casino",
+      "name": "XON.bet",
+      "position": 4,
+      "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
+      "features": [
+        "Prelievi elaborati in 0-24 ore",
+        "App mobile per iOS e Android",
+        "Programma fedeltà e cashback"
+      ],
+      "rating": 4.7
     }
   ]
 }
