@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "project": "51314",
+  "updated": "2026-10-07T15:31:46.239Z",
+  "active": true,
+  "listingPosition": true,
+  "customPosition": false,
+  "mode": "listing",
+  "fields": [
+    "name",
+    "bonus",
+    "rating"
+  ],
+  "featureCount": 3,
+  "casinos": [
+    {
+      "brand": "vox-casino",
+      "position": 1,
+      "name": "Vox Casino",
+      "bonus": "€5 + 50 Giri Gratis su Hot Triple Sevens senza deposito",
+      "rating": "4.7",
+      "features": [
+        "Wager x5 su cash e free spin",
+        "5 giorni per completare il wager",
+        "Cashout massimo x1 sulle vincite"
+      ]
+    },
+    {
+      "brand": "slotoro-casino",
+      "position": 2,
+      "name": "Slotoro",
+      "bonus": "€25 Senza deposito",
+      "rating": "4.8",
+      "features": [
+        "Wager cash x5",
+        "5 giorni per completare il wager",
+        "Cashout massimo €25"
+      ]
+    },
+    {
+      "brand": "verde-casino",
+      "position": 3,
+      "name": "Verde Casino",
+      "bonus": "150 Giri Gratuiti su Gates of Olympus Senza deposito",
+      "rating": "4.2",
+      "features": [
+        "150 free spin su Gates of Olympus",
+        "Wager x30 sulle vincite",
+        "Cashout massimo x3 sulle vincite"
+      ]
+    },
+    {
+      "brand": "bruce-bet-casino",
+      "position": 4,
+      "name": "Bruce Bet",
+      "bonus": "50 Giri Gratuiti su Diamond of Jungle Senza deposito",
+      "rating": "4.0",
+      "features": [
+        "50 free spin su Diamond of Jungle",
+        "Wager x55 sulle vincite",
+        "Tempo di wagering illimitato; cashout €50"
+      ]
+    },
+    {
+      "brand": "vvegas-casino",
+      "position": 5,
+      "name": "Vulkan Vegas",
+      "bonus": "€5 Senza deposito",
+      "rating": "4.5",
+      "features": [
+        "Wager cash x5",
+        "3 giorni per completare il wager",
+        "Cashout massimo €100"
+      ]
+    }
+  ]
+}
