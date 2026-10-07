@@ -1,53 +1,12 @@
 {
   "version": 2,
   "project": "51314",
-  "updated": "2026-10-07T15:55:53.698Z",
-  "active": true,
+  "updated": "2026-10-07T15:57:22.925Z",
+  "active": false,
   "listingPosition": false,
-  "customPosition": true,
-  "mode": "custom",
-  "fields": [
-    "name",
-    "bonus",
-    "rating"
-  ],
-  "featureCount": 3,
-  "casinos": [
-    {
-      "brand": "slotoro-casino",
-      "position": 1,
-      "name": "Slotoro",
-      "bonus": "€25 Senza deposito",
-      "rating": "5",
-      "features": [
-        "Wager cash x5",
-        "5 giorni per completare il wager",
-        "Cashout massimo €25"
-      ]
-    },
-    {
-      "brand": "verde-casino",
-      "position": 2,
-      "name": "Verde Casino",
-      "bonus": "150 Giri Gratuiti su Gates of Olympus Senza deposito",
-      "rating": "4.2",
-      "features": [
-        "150 free spin su Gates of Olympus",
-        "Wager x30 sulle vincite",
-        "Cashout massimo x3 sulle vincite"
-      ]
-    },
-    {
-      "brand": "bruce-bet-casino",
-      "position": 3,
-      "name": "Bruce Bet",
-      "bonus": "50 Giri Gratuiti su Diamond of Jungle Senza deposito",
-      "rating": "4.0",
-      "features": [
-        "50 free spin su Diamond of Jungle",
-        "Wager x55 sulle vincite",
-        "Tempo di wagering illimitato; cashout €50"
-      ]
-    }
-  ]
+  "customPosition": false,
+  "mode": "static",
+  "fields": [],
+  "featureCount": 0,
+  "casinos": []
 }
