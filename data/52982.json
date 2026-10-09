@@ -1,12 +1,65 @@
 {
   "version": 2,
   "project": "52982",
-  "updated": "2026-09-29T12:16:45.513Z",
-  "active": false,
-  "listingPosition": false,
+  "updated": "2026-10-09T10:33:53.908Z",
+  "active": true,
+  "listingPosition": true,
   "customPosition": false,
-  "mode": "static",
-  "fields": [],
-  "featureCount": 0,
-  "casinos": []
+  "mode": "listing",
+  "fields": [
+    "name",
+    "bonus",
+    "rating"
+  ],
+  "featureCount": 3,
+  "casinos": [
+    {
+      "brand": "winnita-casino",
+      "position": 1,
+      "name": "Winnita",
+      "bonus": "Bonus di benvenuto del 525% fino a €3.000 + 450 Giri Gratis",
+      "rating": "4.8",
+      "features": [
+        "Wagering più basso del mercato: x30",
+        "Programma VIP a 7 livelli",
+        "Tornei con premi fino a €10.000"
+      ]
+    },
+    {
+      "brand": "verde-casino",
+      "position": 2,
+      "name": "Verde Casino",
+      "bonus": "Bonus di benvenuto del 520% fino a €1.200 + 220 Giri Gratis",
+      "rating": "4.8",
+      "features": [
+        "Deposito minimo di soli €10",
+        "App mobile dedicata per iOS e Android",
+        "Tornei settimanali e programma VIP"
+      ]
+    },
+    {
+      "brand": "bruce-bet-casino",
+      "position": 3,
+      "name": "Bruce Bet",
+      "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
+      "rating": "4.9",
+      "features": [
+        "Deposito minimo di soli €10",
+        "Cashback e programma fedeltà",
+        "Ampia scelta provider: Novomatic, Yggdrasil, Evolution"
+      ]
+    },
+    {
+      "brand": "xon-bet-casino",
+      "position": 4,
+      "name": "XON.bet",
+      "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
+      "rating": "5",
+      "features": [
+        "Prelievi elaborati in 0-24 ore",
+        "App mobile per iOS e Android",
+        "Programma fedeltà e cashback"
+      ]
+    }
+  ]
 }
