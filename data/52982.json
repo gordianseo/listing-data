@@ -1,11 +1,11 @@
 {
   "version": 2,
   "project": "52982",
-  "updated": "2026-10-09T10:33:53.908Z",
+  "updated": "2026-10-09T10:35:00.588Z",
   "active": true,
   "listingPosition": true,
-  "customPosition": false,
-  "mode": "listing",
+  "customPosition": true,
+  "mode": "custom",
   "fields": [
     "name",
     "bonus",
@@ -26,21 +26,9 @@
       ]
     },
     {
-      "brand": "verde-casino",
-      "position": 2,
-      "name": "Verde Casino",
-      "bonus": "Bonus di benvenuto del 520% fino a €1.200 + 220 Giri Gratis",
-      "rating": "4.8",
-      "features": [
-        "Deposito minimo di soli €10",
-        "App mobile dedicata per iOS e Android",
-        "Tornei settimanali e programma VIP"
-      ]
-    },
-    {
       "brand": "bruce-bet-casino",
-      "position": 3,
-      "name": "Bruce Bet",
+      "position": 2,
+      "name": "Bruce Bet 5",
       "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
       "rating": "4.9",
       "features": [
@@ -50,15 +38,15 @@
       ]
     },
     {
-      "brand": "xon-bet-casino",
-      "position": 4,
-      "name": "XON.bet",
-      "bonus": "Bonus di benvenuto del 550% fino a €2.750 + 550 Giri Gratis",
-      "rating": "5",
+      "brand": "verde-casino",
+      "position": 3,
+      "name": "Verde Casino",
+      "bonus": "Bonus di benvenuto del 520% fino a €1.200 + 220 Giri Gratis",
+      "rating": "4.8",
       "features": [
-        "Prelievi elaborati in 0-24 ore",
-        "App mobile per iOS e Android",
-        "Programma fedeltà e cashback"
+        "Deposito minimo di soli €10",
+        "App mobile dedicata per iOS e Android",
+        "Tornei settimanali e programma VIP"
       ]
     }
   ]
